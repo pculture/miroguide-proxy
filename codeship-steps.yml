@@ -7,4 +7,4 @@
   dockercfg_service: aws_generator
 - name: Deploy
   service: deploy-agent
-  command: miroguide-proxy
+  command: miroguide
